@@ -10,7 +10,7 @@ export default function Tab1() {
       <Text>Tab1</Text>
 
       <Button
-        title="Go to /detail/1"
+        title="go to /detail/1"
         onPress={() => {
           router.push({
             pathname: "/detail/1",

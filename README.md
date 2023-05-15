@@ -4,11 +4,8 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 
 ## 🚀 How to use
 
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+1. `npm i`
+1. `yarn ios`
+1. on `IndexRoute`, press `go to tabs`
+1. on `Tab1`, press `go to /detail/1`
+1. Check the error
